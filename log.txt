@@ -1,0 +1,42 @@
+
+2023-06-07
+ada
+
+
+Created qgis2web_2023_06_07-18_09_27_704859
+in File:
+/Users/ada/pers/home/2511HillCourt/neighborhood/HFSG/maps/HFSG_GMaps/HFSGGMaps_downloads/2021-10-22_downloads/HFSG_01/Berkeley_City/CoB_StreetsNetwork/Shapefile/local_ada/qgis2web/08_Main_CK_webmap_Leaflet/qgis2web_2023_06_07-18_09_27_704859
+
+
+From QGIS Version 3.18.1-Zürich Project
+in File: 
+/Users/ada/pers/home/2511HillCourt/neighborhood/HFSG/maps/HFSG_GMaps/HFSGGMaps_downloads/2021-10-22_downloads/HFSG_01/Berkeley_City/CoB_Parcels/Shapefile/CoB_Parcels_Groves_Settlement_webmap.qgs.qgz
+
+Layer: Main_CK_webmap
+
+
+
+Creating Leaflet map...
+Exporting libraries... done
+Writing CSS... done
+Exporting California 10 Bay Area Counties to JSON... done
+Exporting Alameda County Cities to JSON... done
+Exporting UCB City of Oakland Parcels (17) to JSON... done
+Exporting UCB City of Berkeley Parcels (62) to JSON... done
+Exporting UCB Main Campus & Clark Kerr Campus to JSON... done
+Exporting Region within .5 miles of Main & Clark Kerr Campuses to JSON... done
+Exporting Streets within Region (total length ~57 miles) to JSON... done
+Writing Google Satellite Hybrid as WMS layer... done
+Writing OpenStreetMap as WMS layer... done
+Writing California 10 Bay Area Counties as JSON... done
+Writing Alameda County Cities as JSON... done
+Writing UCB City of Oakland Parcels (17) as JSON... done
+Writing UCB City of Berkeley Parcels (62) as JSON... done
+Writing UCB Main Campus & Clark Kerr Campus as JSON... done
+Writing Region within .5 miles of Main & Clark Kerr Campuses as JSON... done
+Writing Streets within Region (total length ~57 miles) as JSON... done
+Writing HTML... done
+Success
+Exported to /Users/ada/pers/home/2511HillCourt/neighborhood/HFSG/maps/HFSG_GMaps/HFSGGMaps_downloads/2021-10-22_downloads/HFSG_01/Berkeley_City/CoB_StreetsNetwork/Shapefile/local_ada/qgis2web/08_Main_CK_webmap_Leaflet
+
+
